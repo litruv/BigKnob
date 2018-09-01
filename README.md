@@ -52,9 +52,11 @@ int BigKnob = 1;
 ```
 
 Change the board type to Teensy LC
+
 ![](https://i.imgur.com/QVNE8Xh.png)
 
 Change the USB type to Serial + MIDI
+
 ![](https://i.imgur.com/cNiXUd4.png)
 
 Might need to change port (I don't need to for mine)
