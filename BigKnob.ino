@@ -1,6 +1,11 @@
 #define BOUNCE_LOCK_OUT
 #include <Bounce2.h>
 #include <Rotary.h>
+
+//Knob Steps
+int SmallKnob = 6;
+int BigKnob = 1;
+
 //PINS
 
 // -- Switch --
@@ -179,17 +184,17 @@ void checkDials() {
   encoder1result = encoder1.process();
   if (encoder1result) {
     if (encoder1result == DIR_CW)
-      val[state] = min(val[state] + 6, 128);
+      val[state] = min(val[state] + SmallKnob, 128);
     else
-      val[state] = max(val[state] - 6, 0);
+      val[state] = max(val[state] - SmallKnob, 0);
   }
 
   encoder2result = encoder2.process();
   if (encoder2result) {
     if (encoder2result == DIR_CW)
-      val[state] = min(val[state] + 1, 128);
+      val[state] = min(val[state] + BigKnob, 128);
     else
-      val[state] = max(val[state] - 1, 0);
+      val[state] = max(val[state] - BigKnob, 0);
   }
 
   if (val[state] != lastval[state]) {
