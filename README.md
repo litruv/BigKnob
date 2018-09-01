@@ -19,10 +19,25 @@ Download + extract the repo to a local folder.
 
 Then via command line / powershell
 
+
+Download + Install **Arduino IDE**
+https://www.arduino.cc/en/Main/Software
+
+Download + Install **Teensyduino** 
+https://www.pjrc.com/teensy/td_download.html
+
 `	D:\Arduino> git clone https://github.com/litruv/BigKnob.git BigKnob`
 
 ##### MacOS
 ------------
+
+
+Download + Install **Arduino IDE**
+https://www.arduino.cc/en/Main/Software
+
+Download + Install **Teensyduino** 
+https://www.pjrc.com/teensy/td_download.html
+
 [Download Git fot MacOS](https://git-scm.com/download/mac "Download Git fot MacOS")
 
 Then via terminal
@@ -31,6 +46,13 @@ Then via terminal
 
 ##### Linux
 ------------
+
+Download + Install **Arduino IDE**
+https://www.arduino.cc/en/Main/Software
+
+Download + Install **Teensyduino** 
+https://www.pjrc.com/teensy/td_download.html
+
 `$ git clone https://github.com/litruv/BigKnob.git BigKnob`
 
 ##### General
@@ -38,12 +60,6 @@ Then via terminal
 [![Download Repo Zip](https://i.imgur.com/Ij76c4Q.png "Download Repo Zip")](https://i.imgur.com/Ij76c4Q.png "Download Repo Zip")
 
 ## Usage
-
-Download + Install **Arduino IDE**
-https://www.arduino.cc/en/Main/Software
-
-Download + Install **Teensyduino** 
-https://www.pjrc.com/teensy/td_download.html
 
 Open **BigKnob.ino** in **Arduino IDE**
 
