@@ -7,7 +7,9 @@ This is the main firmware for the J6 Bigknob USB-MIDI controller, based on the T
 - 1x 3 way switch
 - 1x 3.5mm TRS Jack for footpedal
 
-![](https://cdn.discordapp.com/attachments/482884573135503370/482888428044943381/rgaOo9U1TDLpLdNC4_3uMpx7DCtixzYFruvnIrGRShJIKIc-jn5q7nXfX4isUhQsIJ9C4SKxvwztoHafofvVJ4Le0yZ-612s74Rd.png = 250x250 )
+
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 ## Usage
 
