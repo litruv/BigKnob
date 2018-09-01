@@ -15,15 +15,18 @@ This is the main firmware for the J6 Bigknob USB-MIDI controller, based on the T
 Download + extract the repo to a local folder.
 ##### Windows
 ------------
-** Via Git**
-	[Download Git for Windows](https://git-scm.com/download/win "Download Git for Windows")
-	Then via command line / powershell
+[Download Git for Windows](https://git-scm.com/download/win "Download Git for Windows")
+
+Then via command line / powershell
+
 `	D:\Arduino> git clone https://github.com/litruv/BigKnob.git BigKnob`
 
 ##### MacOS
 ------------
 [Download Git fot MacOS](https://git-scm.com/download/mac "Download Git fot MacOS")
-	Then via terminal
+
+Then via terminal
+
 ` $ git clone https://github.com/litruv/BigKnob.git BigKnob`
 
 ##### Linux
