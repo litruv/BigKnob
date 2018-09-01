@@ -57,6 +57,9 @@ https://www.pjrc.com/teensy/td_download.html
 
 ##### General
 ------------
+
+If you don't want to download Git, you're free to download it the ol' fashioned way.
+
 [![Download Repo Zip](https://i.imgur.com/Ij76c4Q.png "Download Repo Zip")](https://i.imgur.com/Ij76c4Q.png "Download Repo Zip")
 
 ## Usage
